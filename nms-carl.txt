@@ -2,19 +2,19 @@
 # A List of Alowed IP's
 # Last Updated 09/20/2021
 #
-173.9.169.97            # NMS Boniello Commcast v4
-2603:3020:3206:6e00::1  # NMS Boniello Comcast v6
-nsaraniti.homeip.net    # NMS Boniello DynDNS
-saraniti-sat.dynv6.net  # NMS Boniello Dyn v6
+173.9.169.97                    # NMS Boniello Commcast v4
+2603:3020:3206:6e00::1          # NMS Boniello Comcast v6
+saraniti-boniello.homeip.net    # NMS Boniello DynDNS
+saraniti-sat.dynv6.net          # NMS Boniello Dyn v6
 # Boniello Starlink
-# Arbuckle Comcast
+saraniti-arbuckle.homeip.net    # Arbuckle Comcast
 # Arbuckle Starlink
-carlc-home.homeip.net   # CarlC Home ATT
-carlc-home.carlc.com    # CarlC Home Comcast
-173.9.145.43            # CarlC Home Comcast
-96.80.123.89            # Solera Comcast 
-45.73.149.78            # Solera Crown Castle 
-166.166.43.91           # Solera Verizon 166.166.43.91
-64.135.43.246           # Solera Host.net
+carlc-home.homeip.net           # CarlC Home ATT
+carlc-home.carlc.com            # CarlC Home Comcast
+173.9.145.43                    # CarlC Home Comcast
+96.80.123.89                    # Solera Comcast 
+45.73.149.78                    # Solera Crown Castle 
+166.166.43.91                   # Solera Verizon 166.166.43.91
+64.135.43.246                   # Solera Host.net
 
 
