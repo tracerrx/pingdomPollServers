@@ -16,5 +16,7 @@ carlc-home.carlc.com            # CarlC Home Comcast
 45.73.149.78                    # Solera Crown Castle 
 166.166.43.91                   # Solera Verizon 166.166.43.91
 64.135.43.246                   # Solera Host.net
+saraniti-singer.homeip.net      # SFS Singer Island, FL
+saraniti-sapphire.homeip.net    # SFS Sapphire, NC
 
 
