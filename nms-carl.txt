@@ -18,5 +18,6 @@ carlc-home.carlc.com            # CarlC Home Comcast
 64.135.43.246                   # Solera Host.net
 saraniti-singer.homeip.net      # SFS Singer Island, FL
 saraniti-sapphire.homeip.net    # SFS Sapphire, NC
+100.116.109.80                  # NMS Tailsale
 
 
