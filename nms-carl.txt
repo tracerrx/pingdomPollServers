@@ -12,12 +12,7 @@ saraniti-arbuckle.homeip.net    # Arbuckle Comcast
 carlc-home.homeip.net           # CarlC Home ATT
 carlc-home.carlc.com            # CarlC Home Comcast
 173.9.145.43                    # CarlC Home Comcast
-96.80.123.89                    # Solera Comcast 
-45.73.149.78                    # Solera Crown Castle 
-166.166.43.91                   # Solera Verizon 166.166.43.91
-64.135.43.246                   # Solera Host.net
-saraniti-singer.homeip.net      # SFS Singer Island, FL
-saraniti-sapphire.homeip.net    # SFS Sapphire, NC
+64.135.43.246                   # Host.net
 100.116.109.80                  # NMS Tailsale
 
 
